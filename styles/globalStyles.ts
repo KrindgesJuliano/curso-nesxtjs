@@ -8,6 +8,6 @@ export default createGlobalStyle`
   body {
     background: #121214;
     color: #fff
-    font-family: Arial, Helvetica;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
   }
 `
